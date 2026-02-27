@@ -15,7 +15,7 @@ I specialize in building extreme-density, **zero-allocation** infrastructure for
 - 🗡️ **Coding Philosophy:** *"Any allocation on the hot path is a failure of the design."* (The Trafalgar Law approach to memory manipulation).
 
 ### ✍️ Latest Engineering Articles
-I write deeply technical deep-dives on my blog at **[arkstack.dev](https://blog.arkstack.dev)**. 
+I write deeply technical deep-dives on my blog at **[blog.arkstack.dev](https://blog.arkstack.dev)**. 
 
 - 📖 **[Why I Banned ThreadLocal in My Java Kernel: Surviving 1 Million Virtual Threads](https://blog.arkstack.dev/banning-threadlocal-java)**
 - *More coming soon on JFR Continuous Benchmarking and Zero-Copy I/O...*
