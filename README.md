@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://arkstack.dev">
+    <h1>⚡ Arkadiusz Przychocki | ArkStack</h1>
+  </a>
+  <p><b>Principal Systems Engineer | L0 Architecture | Mechanical Sympathy</b></p>
+</div>
 
-<!--
-**arkstack-dev/arkstack-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+I specialize in building extreme-density, **zero-allocation** infrastructure for the JVM. I believe that modern hardware is constantly bottlenecked by legacy software patterns. My mission is to rip out unnecessary abstractions, bypass the Garbage Collector, and write Java that respects the CPU cache.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently Building:** [Exeris Kernel](https://github.com/arkstack-dev/exeris-kernel) — a zero-copy, off-heap runtime built for Java 26+.
+- ⚙️ **Tech Focus:** Project Panama (FFM), Project Loom (Virtual Threads), `io_uring`, ZGC, Off-Heap Memory Management.
+- 🗡️ **Coding Philosophy:** *"Any allocation on the hot path is a failure of the design."* (The Trafalgar Law approach to memory manipulation).
+
+### ✍️ Latest Engineering Articles
+I write deeply technical deep-dives on my blog at **[arkstack.dev](https://blog.arkstack.dev)**. 
+
+- 📖 **[Why I Banned ThreadLocal in My Java Kernel: Surviving 1 Million Virtual Threads](https://blog.arkstack.dev/banning-threadlocal-java)**
+- *More coming soon on JFR Continuous Benchmarking and Zero-Copy I/O...*
+
+### 🛠️ The L0 Stack
+Languages:   Java 26+ (Value Classes, FFM) | eBPF
+Protocols:   QUIC | HTTP/3 | TCP/IP | io_uring
+Telemetry:   JFR (Java Flight Recorder) | JMH
+Data:        PostgreSQL (Native Protocols)
+<div align="center">
+<i>"Don't wrap the bytes. Point to the bytes."</i>
+</div>
