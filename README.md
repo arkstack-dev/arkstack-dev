@@ -17,7 +17,7 @@ I specialize in building extreme-density, **zero-allocation** infrastructure for
 ### ✍️ Latest Engineering Articles
 I write deeply technical deep-dives on my blog at **[blog.arkstack.dev](https://blog.arkstack.dev)**. 
 
-- 📖 **[Why I Banned ThreadLocal in My Java Kernel: Surviving 1 Million Virtual Threads](https://blog.arkstack.dev/banning-threadlocal-java)**
+- 📖 **[Why I Banned ThreadLocal in My Java Kernel: Surviving 1 Million Virtual Threads](https://blog.arkstack.dev/en/blog/why-i-banned-threadlocal-from-the-exeris-kernel/)**
 - *More coming soon on JFR Continuous Benchmarking and Zero-Copy I/O...*
 
 ### 🛠️ The L0 Stack
